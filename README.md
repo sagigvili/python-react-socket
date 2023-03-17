@@ -1,4 +1,4 @@
-# python-socket
+# python-react-socket
 Create a python socket to send data to clients, example with react
 
 # Instructions
