@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+flask-update/node_modules
+flask-update/.pnp
+flask-update/.pnp.js
+
+# testing
+flask-update/coverage
+
+# production
+flask-update/build
+
+# misc
+flask-update/.DS_Store
+flask-update/.env.local
+flask-update/.env.development.local
+flask-update/.env.test.local
+flask-update/.env.production.local
+
+flask-update/npm-debug.log*
+flask-update/yarn-debug.log*
+flask-update/yarn-error.log*
